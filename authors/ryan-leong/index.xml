@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Schulich Ignite</title>
-    <link>https://kieranwood.ca/ignite-site-2020-2024ignite-site-2020-2024/authors/ryan-leong/</link>
+    <link>https://kieranwood.ca/ignite-site-2020-2024/authors/ryan-leong/</link>
     <description>Recent content on Schulich Ignite</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 18 Dec 2023 00:00:00 -0600</lastBuildDate><atom:link href="https://kieranwood.ca/ignite-site-2020-2024ignite-site-2020-2024/authors/ryan-leong/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 18 Dec 2023 00:00:00 -0600</lastBuildDate><atom:link href="https://kieranwood.ca/ignite-site-2020-2024/authors/ryan-leong/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Basics of Neural Networks</title>
-      <link>https://kieranwood.ca/ignite-site-2020-2024ignite-site-2020-2024/blog/basics-of-neural-networks/</link>
+      <link>https://kieranwood.ca/ignite-site-2020-2024/blog/basics-of-neural-networks/</link>
       <pubDate>Mon, 18 Dec 2023 00:00:00 -0600</pubDate>
       
-      <guid>https://kieranwood.ca/ignite-site-2020-2024ignite-site-2020-2024/blog/basics-of-neural-networks/</guid>
+      <guid>https://kieranwood.ca/ignite-site-2020-2024/blog/basics-of-neural-networks/</guid>
       <description>Maybe at this point you’ve heard of AlphaZero and how it defeated Stockfish, which was then the best chess engine in the world.</description>
     </item>
     
